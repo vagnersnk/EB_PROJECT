@@ -1,3 +1,3 @@
 # OBJETIVOS E FUNCIONALIDADES
 Aqui temos o diagrama do escopo do projeto
-![Escopo](docs_img/obj.png)
+![Escopo](../docs/docs_img/obj.png)
